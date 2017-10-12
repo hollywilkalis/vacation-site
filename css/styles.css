@@ -1,0 +1,17 @@
+body {
+  background-color: #e6f9ff;
+}
+
+img {
+  margin-top: 2em;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #003b4d;
+}
+
+.card-link {
+  font-size: 20px;
+}
